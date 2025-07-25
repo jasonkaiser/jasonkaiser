@@ -1,6 +1,6 @@
 <center><h1>Hi 👋, I'm Jason</h1>
 <p>A passionate Fullstack Developer</p>
-<p>International Burch University Student ( 2 Year ) </p>
+<p>International Burch University Student ( 3 Year ) </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>

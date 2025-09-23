@@ -1,5 +1,5 @@
 <center><h1>Hi 👋, I'm Jason</h1>
-<p>Fullstack Developer / UI Designerr</p>
+<p>Fullstack Developer / UI Designer</p>
 <p>International Burch University Student ( Final Year ) </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
